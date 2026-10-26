@@ -1,0 +1,5 @@
+Flask>=3.1,<4
+Flask-Limiter[redis]>=3.12,<5
+redis>=5,<7
+python-dotenv>=1.0,<2
+requests>=2.32,<3
